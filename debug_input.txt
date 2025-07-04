@@ -1,0 +1,11 @@
+Array
+(
+    [id] => 
+    [razon_social] => SERVICIOS DE TRANSPORTE Y TURISMO HERMANOS ROSAS S.A.C.
+    [direccion] => MZ 2 LT.2 P.J NN, ASENTAMIENTO HUMANO  LA LIBERTAD
+    [telefono] => 985555421
+    [autorizacion] => RGR N 000424-2025-GRLL-GGR-GRTC
+    [ruc] => 20613908308
+    [correo] => serviciostransp@gmail.com
+    [fecha_vigencia] => 2035-06-01
+)
